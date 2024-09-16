@@ -1,2 +1,1 @@
-# Course-Workshops-DB
-Workshop de Fundamentos de bases de datos
+# Course Workshops DB
