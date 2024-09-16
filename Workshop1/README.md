@@ -24,3 +24,5 @@ En este taller, se abordaron los siguientes temas:
 ### Diagramas
 
 -Los digramas fueron hechos en paint y en PlantUML asi como las tablas fueron hechas en Excel 
+
+Hecho por: Juan David Quiroga - 20222020206
