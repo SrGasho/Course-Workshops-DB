@@ -1,17 +1,17 @@
 # Course Workshops DB
 
-Este repositorio contiene la documentación y el código de los talleres del curso. Cada taller tiene su propia carpeta, que incluye la documentación del taller y el código relacionado.
+This repository contains the documentation and code for the course workshops. Each workshop has its own folder, which includes the workshop documentation and related code.
 
-## Estructura del Repositorio
+## Repository Structure
 
-- `Workshop1/`: Contiene el código y la documentación del Taller 1.
-- `Workshop2/`: Contiene el código y la documentación del Taller 2 (VACIO).
+- `Workshop1/`: Contains the code and documentation for Workshop 1.
+- `Workshop2/`: Contains the code and documentation for Workshop 2.
 - ...
 
-## Cómo Contribuir
+## How to Contribute
 
-Si deseas contribuir al repositorio, por favor sigue estos pasos:
-1. Clona el repositorio.
-2. Crea una nueva rama para tus cambios.
-3. Realiza tus cambios y prueba localmente.
-4. Envía un pull request con una descripción de tus cambios.
+If you wish to contribute to the repository, please follow these steps:
+1. Clone the repository.
+2. Create a new branch for your changes.
+3. Make your changes and test locally.
+4. Submit a pull request with a description of your changes.
